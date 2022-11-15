@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Birthday reminder",
+    "version": "1.0.0",
+    "author": "Erik Schulze",
+    "action": {
+       "default_popup": "index.html",
+       "default_title": "Birthday reminder"
+    },
+    "description": "a tool to remind you of the next birthday",
+    "icons": {
+        "16": "img/icon16.png",
+        "32": "img/icon30.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png"
+    }
+}
